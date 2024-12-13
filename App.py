@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Image Processing App", page_icon="C:\Users\LENOVO\Documents\ImageProcessingApp - Group 8 - Add Logo and Photo\assets\logo pu.png")
+st.set_page_config(page_title="Image Processing App", page_icon= r"C:\Users\LENOVO\Documents\ImageProcessingApp - Group 8 - Add Logo and Photo\assets\logo pu.png")
 
 st.sidebar.title("Navigation")
 st.sidebar.write("Use the sidebar to navigate through the app.")
